@@ -29,7 +29,7 @@
         y: tileSize + 2,
         width: 24,
         height: 32,
-        speed: 7,
+        speed: 5,
         srcX: 0,
         srcY: tileSrcSize,
         countAnim: 0
